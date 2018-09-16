@@ -1,0 +1,11 @@
+# feel free to pull request
+*.PCBDoc.htm
+*.PCBDocPreview
+*.PrjPrbStructure
+*.SchDocPreview
+*.SchDotPreview
+*.cmp
+*.swp
+History
+Project Logs*
+Project Outputs*
